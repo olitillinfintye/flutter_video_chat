@@ -1,2 +1,2 @@
 # flutter_video_chat
-Flutter video chat app using Agora api 
+Flutter video chat app using zegocloud api 
